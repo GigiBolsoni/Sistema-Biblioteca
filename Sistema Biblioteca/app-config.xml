@@ -1,0 +1,9 @@
+<config>
+    <database url="jdbc:mysql://127.0.0.1:3306/SGBI_AQ3016358" user="root" password="root"/>
+</config>
+
+     <!--<database url="jdbc:mysql://127.0.0.1:3307/SGBI_AQ3016358" user="root" password="root"/>-->
+     <!--<database url="jdbc:mysql://127.0.0.1:3306/SGBI_AQ3016358" user="root" password="root"/>-->
+     <!--<database url = "jdbc:mysql://sql.freedb.tech/freedb_sgcm_AQ3016358" user = "freedb_gigibolsoni" password = "Sc2m6F74%dAZ3tf"/>-->
+
+
